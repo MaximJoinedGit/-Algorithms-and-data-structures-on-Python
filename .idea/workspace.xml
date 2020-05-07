@@ -20,15 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03cd909e-bd57-4c62-81ab-dc36c580d6d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_3/homework_3.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3/homework_3.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3/homework_3.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3/homework_3.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3/homework_3.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3/homework_3.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3/homework_3.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3/homework_3.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3/homework_3.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/homework_4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/homework_4_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +56,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Python_Projects/HSoE" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.homework_3.3">
-    <configuration name="homework_3.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.homework_4_2">
+    <configuration name="678" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_3/homework_3.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_3/678.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_3.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="homework_4.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_3/homework_3.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_4/homework_4.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_3.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="homework_4_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_3/homework_3.5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_4/homework_4_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_3.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="homework_4_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_3/homework_3.6.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Maxim\Documents\GeekBrains\1 четверть. Алгоритмы и структуры данных на Python\Tasks\lesson_4\homework_4_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +164,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.homework_4_2" />
+        <item itemvalue="Python.homework_4.1" />
+        <item itemvalue="Python.678" />
         <item itemvalue="Python.homework_3.3" />
-        <item itemvalue="Python.homework_3.2" />
-        <item itemvalue="Python.homework_3.4" />
-        <item itemvalue="Python.homework_3.5" />
-        <item itemvalue="Python.homework_3.6" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588341387292</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lesson 3. All tasks solved.">
+      <created>1588612250278</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588612250389</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,7 +222,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Lesson 1. All tasks solved." />
     <MESSAGE value="Lesson 2. All tasks solved." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 2. All tasks solved." />
+    <MESSAGE value="Lesson 3. All tasks solved." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 3. All tasks solved." />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="38" width="816" height="730" key="#Intentions" timestamp="1588242905179">
@@ -234,46 +234,50 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="426" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1588174845892" />
-    <state x="211" y="0" key="CommitChangelistDialog2" timestamp="1588341373526">
+    <state x="211" y="0" key="CommitChangelistDialog2" timestamp="1588612233821">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="211" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1588341373526" />
+    <state x="211" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1588612233821" />
+    <state width="552" height="466" key="DebuggerActiveHint" timestamp="1588715110726">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="552" height="466" key="DebuggerActiveHint/0.0.1366.768@0.0.1366.768" timestamp="1588715110726" />
     <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1588067863510">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1588067863510" />
-    <state width="1345" height="259" key="GridCell.Tab.0.bottom" timestamp="1588611501644">
+    <state width="1345" height="395" key="GridCell.Tab.0.bottom" timestamp="1588887337874">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="259" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588611501644" />
-    <state width="1345" height="259" key="GridCell.Tab.0.center" timestamp="1588611501629">
+    <state width="1345" height="395" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588887337874" />
+    <state width="1345" height="395" key="GridCell.Tab.0.center" timestamp="1588887337874">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="259" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1588611501629" />
-    <state width="1345" height="259" key="GridCell.Tab.0.left" timestamp="1588611501629">
+    <state width="1345" height="395" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1588887337874" />
+    <state width="1345" height="395" key="GridCell.Tab.0.left" timestamp="1588887337874">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="259" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1588611501629" />
-    <state width="1345" height="259" key="GridCell.Tab.0.right" timestamp="1588611501644">
+    <state width="1345" height="395" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1588887337874" />
+    <state width="1345" height="395" key="GridCell.Tab.0.right" timestamp="1588887337874">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="259" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588611501644" />
-    <state width="1345" height="290" key="GridCell.Tab.1.bottom" timestamp="1588592691152">
+    <state width="1345" height="395" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588887337874" />
+    <state width="1345" height="213" key="GridCell.Tab.1.bottom" timestamp="1588884153547">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="290" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588592691152" />
-    <state width="1345" height="290" key="GridCell.Tab.1.center" timestamp="1588592691152">
+    <state width="1345" height="213" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588884153547" />
+    <state width="1345" height="213" key="GridCell.Tab.1.center" timestamp="1588884153547">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="290" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1588592691152" />
-    <state width="1345" height="290" key="GridCell.Tab.1.left" timestamp="1588592691152">
+    <state width="1345" height="213" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1588884153547" />
+    <state width="1345" height="213" key="GridCell.Tab.1.left" timestamp="1588884153532">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="290" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1588592691152" />
-    <state width="1345" height="290" key="GridCell.Tab.1.right" timestamp="1588592691152">
+    <state width="1345" height="213" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1588884153532" />
+    <state width="1345" height="213" key="GridCell.Tab.1.right" timestamp="1588884153547">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="290" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1588592691152" />
+    <state width="1345" height="213" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1588884153547" />
     <state x="184" y="28" key="SettingsEditor" timestamp="1587966289151">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -282,10 +286,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="379" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1587915306330" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1588549495464">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1588886902123">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1588549495464" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1588886902123" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
