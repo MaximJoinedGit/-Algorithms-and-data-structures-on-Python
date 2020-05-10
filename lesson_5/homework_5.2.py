@@ -116,3 +116,15 @@ while user_input:
         break
     else:
         print(f'{action} - Неизвестная команда. Повторите ввод.')
+
+if __name__ == '__main__':
+    assert hex_sum(['A', '2'], ['C', '4', 'F']) == str(hex(0xA2 + 0xC4F).upper()[2:])
+    assert hex_sum(['1', '2', 'F', '3', 'C', 'A'], ['F', 'F', 'A', 'D']) == str(hex(0x12F3CA + 0xFFAD).upper()[2:])
+    assert hex_sum(['8', '3', '1', '2'], ['1', 'E', '3', '0', 'A', '9']) == str(hex(0x8312 + 0x1E30A9).upper()[2:])
+    assert hex_sum(['A', 'B', 'C'], ['D', 'E', 'F']) == str(hex(0xABC + 0xDEF).upper()[2:])
+    assert hex_sum(['9', 'F', 'A', 'E'], ['7', 'B', 'E', '0']) == str(hex(0x9FAE + 0x7BE0).upper()[2:])
+    assert hex_mul(['A', '2'], ['C', '4', 'F']) == str(hex(0xA2 * 0xC4F).upper()[2:])
+    assert hex_mul(['1', '2', 'F', '3', 'C', 'A'], ['F', 'F', 'A', 'D']) == str(hex(0x12F3CA * 0xFFAD).upper()[2:])
+    assert hex_mul(['8', '3', '1', '2'], ['1', 'E', '3', '0', 'A', '9']) == str(hex(0x8312 * 0x1E30A9).upper()[2:])
+    assert hex_mul(['A', 'B', 'C'], ['D', 'E', 'F']) == str(hex(0xABC * 0xDEF).upper()[2:])
+    assert hex_mul(['9', 'F', 'A', 'E'], ['7', 'B', 'E', '0']) == str(hex(0x9FAE * 0x7BE0).upper()[2:])
