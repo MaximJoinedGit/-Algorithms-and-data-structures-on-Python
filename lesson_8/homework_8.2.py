@@ -48,7 +48,7 @@ def dijkstra(graph, start):
     for rev in range(length):
         if not parent[rev] == -1:
             way[rev] = [rev]
-            while way[rev][-1] > 0:
+            while way[rev][-1] >= 0:
                 way[rev].append(parent[way[rev][-1]])
         if way[rev][-1] == -1:
             way[rev].remove(-1)

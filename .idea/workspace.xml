@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03cd909e-bd57-4c62-81ab-dc36c580d6d2" name="Default Changelist" comment="Lesson 7. All tasks solved.">
-      <change afterPath="$PROJECT_DIR$/lesson_8/homework_8.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_8/homework_8.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_8/homework_8.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/homework_8.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8/homework_8.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Python_Projects/HSoE" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.homework_8.3">
+  <component name="RunManager" selected="Python.homework_8.2">
     <configuration name="homework_7.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,9 +163,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.homework_8.3" />
         <item itemvalue="Python.homework_8.2" />
         <item itemvalue="Python.homework_8.1" />
+        <item itemvalue="Python.homework_8.3" />
         <item itemvalue="Python.homework_7.3" />
         <item itemvalue="Python.homework_7.2" />
       </list>
@@ -240,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589922255442</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lesson 8. All tasks solved.">
+      <created>1590331652923</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590331652923</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,7 +270,8 @@
     <MESSAGE value="homework_5.2.py Added some asserts." />
     <MESSAGE value="Task solved." />
     <MESSAGE value="Lesson 7. All tasks solved." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 7. All tasks solved." />
+    <MESSAGE value="Lesson 8. All tasks solved." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 8. All tasks solved." />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="38" width="816" height="730" key="#Intentions" timestamp="1588242905179">
@@ -308,22 +314,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="254" key="GridCell.Tab.-1.right/0.0.1366.768@0.0.1366.768" timestamp="1590248041099" />
-    <state width="1345" height="102" key="GridCell.Tab.0.bottom" timestamp="1590331091447">
+    <state width="1345" height="241" key="GridCell.Tab.0.bottom" timestamp="1590334311189">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="102" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590331091447" />
-    <state width="1345" height="102" key="GridCell.Tab.0.center" timestamp="1590331091447">
+    <state width="1345" height="241" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590334311189" />
+    <state width="1345" height="241" key="GridCell.Tab.0.center" timestamp="1590334311189">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="102" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1590331091447" />
-    <state width="1345" height="102" key="GridCell.Tab.0.left" timestamp="1590331091447">
+    <state width="1345" height="241" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1590334311189" />
+    <state width="1345" height="241" key="GridCell.Tab.0.left" timestamp="1590334311189">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="102" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1590331091447" />
-    <state width="1345" height="102" key="GridCell.Tab.0.right" timestamp="1590331091447">
+    <state width="1345" height="241" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1590334311189" />
+    <state width="1345" height="241" key="GridCell.Tab.0.right" timestamp="1590334311189">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="102" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1590331091447" />
+    <state width="1345" height="241" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1590334311189" />
     <state width="1345" height="254" key="GridCell.Tab.1.bottom" timestamp="1590248040693">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
