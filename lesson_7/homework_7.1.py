@@ -29,4 +29,5 @@ if __name__ == '__main__':
         assert arr == sorted(arr), print(arr)
     arr = [randint(-100, 99) for _ in range(n)]
     print(f'Исходный массив: {arr}')
-    print(f'Отсортированный массив: {bubble_sort(arr)}')
+    bubble_sort(arr)
+    print(f'Отсортированный массив: {arr}')

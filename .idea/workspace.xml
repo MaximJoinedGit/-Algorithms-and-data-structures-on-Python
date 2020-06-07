@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03cd909e-bd57-4c62-81ab-dc36c580d6d2" name="Default Changelist" comment="Lesson 7. All tasks solved.">
-      <change afterPath="$PROJECT_DIR$/lesson_9/homework_9.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_9/homework_9.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_7/homework_7.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_7/homework_7.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Python_Projects/HSoE" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.homework_9.1">
+  <component name="RunManager" selected="Python.homework_7.1">
+    <configuration name="homework_7.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/homework_7.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="homework_8.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,27 +111,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_8/homework_8.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="homework_8.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Tasks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_8/homework_8.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.homework_7.1" />
         <item itemvalue="Python.homework_9.1" />
         <item itemvalue="Python.homework_9.2" />
         <item itemvalue="Python.homework_8.2" />
         <item itemvalue="Python.homework_8.1" />
-        <item itemvalue="Python.homework_8.3" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590334403045</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lesson 9. All tasks solved.">
+      <created>1591557308568</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591557308568</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,7 +294,8 @@
     <MESSAGE value="Lesson 8. All tasks solved." />
     <MESSAGE value="changed one condition in homework_8.2.py" />
     <MESSAGE value="Changed one condition in homework_8.2.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed one condition in homework_8.2.py" />
+    <MESSAGE value="Lesson 9. All tasks solved." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 9. All tasks solved." />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="38" width="816" height="730" key="#Intentions" timestamp="1588242905179">
@@ -331,22 +338,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="254" key="GridCell.Tab.-1.right/0.0.1366.768@0.0.1366.768" timestamp="1590248041099" />
-    <state width="1345" height="204" key="GridCell.Tab.0.bottom" timestamp="1591556966178">
+    <state width="1345" height="145" key="GridCell.Tab.0.bottom" timestamp="1591558534418">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591556966178" />
-    <state width="1345" height="204" key="GridCell.Tab.0.center" timestamp="1591556966178">
+    <state width="1345" height="145" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591558534418" />
+    <state width="1345" height="145" key="GridCell.Tab.0.center" timestamp="1591558534418">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1591556966178" />
-    <state width="1345" height="204" key="GridCell.Tab.0.left" timestamp="1591556966178">
+    <state width="1345" height="145" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1591558534418" />
+    <state width="1345" height="145" key="GridCell.Tab.0.left" timestamp="1591558534418">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1591556966178" />
-    <state width="1345" height="204" key="GridCell.Tab.0.right" timestamp="1591556966178">
+    <state width="1345" height="145" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1591558534418" />
+    <state width="1345" height="145" key="GridCell.Tab.0.right" timestamp="1591558534418">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1591556966178" />
+    <state width="1345" height="145" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1591558534418" />
     <state width="1345" height="254" key="GridCell.Tab.1.bottom" timestamp="1590248040693">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
