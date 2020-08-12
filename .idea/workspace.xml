@@ -266,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591557308568</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="homework_7.1.py Fixed problem when sorted arr had shown as None.">
+      <created>1591558620985</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591558620985</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,7 +302,8 @@
     <MESSAGE value="changed one condition in homework_8.2.py" />
     <MESSAGE value="Changed one condition in homework_8.2.py" />
     <MESSAGE value="Lesson 9. All tasks solved." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 9. All tasks solved." />
+    <MESSAGE value="homework_7.1.py Fixed problem when sorted arr had shown as None." />
+    <option name="LAST_COMMIT_MESSAGE" value="homework_7.1.py Fixed problem when sorted arr had shown as None." />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="38" width="816" height="730" key="#Intentions" timestamp="1588242905179">
@@ -338,22 +346,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="254" key="GridCell.Tab.-1.right/0.0.1366.768@0.0.1366.768" timestamp="1590248041099" />
-    <state width="1345" height="145" key="GridCell.Tab.0.bottom" timestamp="1591558534418">
+    <state width="1345" height="154" key="GridCell.Tab.0.bottom" timestamp="1591562587312">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="145" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591558534418" />
-    <state width="1345" height="145" key="GridCell.Tab.0.center" timestamp="1591558534418">
+    <state width="1345" height="154" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591562587312" />
+    <state width="1345" height="154" key="GridCell.Tab.0.center" timestamp="1591562587312">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="145" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1591558534418" />
-    <state width="1345" height="145" key="GridCell.Tab.0.left" timestamp="1591558534418">
+    <state width="1345" height="154" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1591562587312" />
+    <state width="1345" height="154" key="GridCell.Tab.0.left" timestamp="1591562587312">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="145" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1591558534418" />
-    <state width="1345" height="145" key="GridCell.Tab.0.right" timestamp="1591558534418">
+    <state width="1345" height="154" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1591562587312" />
+    <state width="1345" height="154" key="GridCell.Tab.0.right" timestamp="1591562587312">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="145" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1591558534418" />
+    <state width="1345" height="154" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1591562587312" />
     <state width="1345" height="254" key="GridCell.Tab.1.bottom" timestamp="1590248040693">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

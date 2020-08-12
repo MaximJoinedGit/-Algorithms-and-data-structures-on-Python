@@ -1,33 +1,28 @@
-# 1. Отсортируйте по убыванию методом пузырька одномерный целочисленный массив, заданный случайными числами
-# на промежутке [-100; 100). Выведите на экран исходный и отсортированный массивы.
-# Примечания:
-# a. алгоритм сортировки должен быть в виде функции, которая принимает на вход массив данных,
-# b. постарайтесь сделать алгоритм умнее, но помните, что у вас должна остаться сортировка пузырьком.
-# Улучшенные версии сортировки, например, расчёской, шейкерная и другие в зачёт не идут.
+x = 26
+mod = 3001
 
-from random import randint
+def substr_count(s, l):
+    hash = 0
+    for i in range(l):
+        hash = (hash * x + (ord(s[i]) - 97)) % mod
+    pow_l = 1
+    for i in range(l - 1):
+        pow_l = (pow_l * x) % mod
+    result = set()
+    result.add(hash)
+    for i in range(l, len(s)):
+        hash = ((hash - pow_l * (ord(s[i - l]) - 97) + 2 * mod) * x + (ord(s[i]) - 97)) % mod
+        result.add(hash)
+    print(len(result))
 
-
-def bubble_sort(array: list):
-    """
-    Улучшенная функция сортировки методом пузырька.
-    """
-    # Убрал лишние переменные и заменил while на for.
-    for i in range(len(array) - 1):
-        for elem in range(len(array) - i - 1):
-            if array[elem] > array[elem + 1]:
-                array[elem], array[elem + 1] = array[elem + 1], array[elem]
-
-
-if __name__ == '__main__':
-    n = 10
-    # Проверка на корректную работу. Проверяется 1000 случаев.
-    for _ in range(1000):
-        arr = [randint(-100, 99) for _ in range(n)]
-        # print(arr)
-        bubble_sort(arr)
-        assert arr == sorted(arr), print(arr)
-    arr = [randint(-100, 99) for _ in range(n)]
-    print(f'Исходный массив: {arr}')
-    bubble_sort(arr)
-    print(f'Отсортированный массив: {arr}')
+substr_count("hello world!", 1)
+substr_count("hello world!", 2)
+substr_count("hello world!", 3)
+substr_count("hello world!", 4)
+substr_count("hello world!", 5)
+substr_count("hello world!", 6)
+substr_count("hello world!", 7)
+substr_count("hello world!", 8)
+substr_count("hello world!", 9)
+substr_count("hello world!", 10)
+substr_count("hello world!", 11)
